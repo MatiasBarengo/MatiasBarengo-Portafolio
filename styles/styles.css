@@ -135,7 +135,7 @@ h1 {
     }
 }
 
-.header-experience p{
+.header-experience {
     font-size: 32px;
     color: var(--grey);
     margin: 50px 0;
@@ -144,7 +144,6 @@ h1 {
 @media (min-width:480px) {
     .header-experience {
         font-size: 20px;
-        margin: 0 20px;
     }
 }
 
